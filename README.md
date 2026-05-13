@@ -1,3 +1,2 @@
 # Trabajo Práctico de Git
-Este archivo fue editado por A.
-Este archivo fue editado por B.
+Este archivo tuvo intervenciones de A, B, C y D.
